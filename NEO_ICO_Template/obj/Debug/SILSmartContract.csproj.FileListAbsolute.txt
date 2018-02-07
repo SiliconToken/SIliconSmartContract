@@ -1,0 +1,6 @@
+C:\Projects\silicon\smart-contract\NEO_ICO_Template\bin\Debug\NEO_ICO_Template.dll
+C:\Projects\silicon\smart-contract\NEO_ICO_Template\bin\Debug\NEO_ICO_Template.pdb
+C:\Projects\silicon\smart-contract\NEO_ICO_Template\bin\Debug\Neo.SmartContract.Framework.dll
+C:\Projects\silicon\smart-contract\NEO_ICO_Template\obj\Debug\SILSmartContract.csproj.CoreCompileInputs.cache
+C:\Projects\silicon\smart-contract\NEO_ICO_Template\obj\Debug\NEO_ICO_Template.dll
+C:\Projects\silicon\smart-contract\NEO_ICO_Template\obj\Debug\NEO_ICO_Template.pdb

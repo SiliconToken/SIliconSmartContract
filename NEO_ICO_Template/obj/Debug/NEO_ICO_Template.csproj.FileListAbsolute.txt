@@ -1,0 +1,7 @@
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\bin\Debug\NEO_ICO_Template.dll
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\bin\Debug\NEO_ICO_Template.pdb
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\bin\Debug\Neo.SmartContract.Framework.dll
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\obj\Debug\NEO_ICO_Template.csproj.CoreCompileInputs.cache
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\obj\Debug\NEO_ICO_Template.dll
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\obj\Debug\NEO_ICO_Template.pdb
+C:\Projects\Aphelion\neo_ico_template\NEO_ICO_Template\obj\Debug\NEO_ICO_Template.csprojResolveAssemblyReference.cache
